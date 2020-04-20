@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "Ajr-Regular";
+    src: url("../fonts/Ajr-Regular copy.ttf") format('truetype');
+  }
+
+p{
+    font-family: "Ajr-Regular";
+    font-size: 20vw;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
